@@ -27,8 +27,8 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "Fowzi82"
+          git config user.email "fowziali82@gmail.com"
           git add dark.svg light.svg
           git diff --cached --quiet || git commit -m "chore: refresh profile card [skip ci]"
           git push
