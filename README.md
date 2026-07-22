@@ -10,7 +10,7 @@
 
 ## GitHub Stats & Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fowzi82&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Fowzi82&theme=github-dark-blue&hide_border=true" />
 
 <br/>
 
